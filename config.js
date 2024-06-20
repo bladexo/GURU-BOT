@@ -73,13 +73,13 @@ global.botname = process.env.BOTNAME
 global.premium = 'true'
 global.packname = 'Dɪɴɴᴏ┃ᴮᴼᵀ'
 global.author = 'Dɪɴɴᴏ Bᴏᴛ'
-global.menuvid = 'https://telegra.ph/file/7d931df750eff4306762d.mp4'
+global.menuvid = 'https://telegra.ph/file/6baaeacaedb9dd1dda03b.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/gur.json\n'
 global.dygp = 'https://chat.whatsapp.com/FmpZlH8kVDV82frE1bI8FD'
 global.fgsc = 'https://github.com'
 global.fgyt = 'https://youtube.com'
 global.fgpyp = 'https://youtube.com'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
+global.fglog = 'https://raw.githubusercontent.com'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
